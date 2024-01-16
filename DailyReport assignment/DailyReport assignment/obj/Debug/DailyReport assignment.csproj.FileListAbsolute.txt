@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\DailyReport assignment\DailyReport assignment\bin\Debug\DailyReport assignment.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\DailyReport assignment\DailyReport assignment\bin\Debug\DailyReport assignment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\DailyReport assignment\DailyReport assignment\bin\Debug\DailyReport assignment.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\DailyReport assignment\DailyReport assignment\obj\Debug\DailyReport assignment.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\DailyReport assignment\DailyReport assignment\obj\Debug\DailyReport assignment.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\DailyReport assignment\DailyReport assignment\obj\Debug\DailyReport assignment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\DailyReport assignment\DailyReport assignment\obj\Debug\DailyReport assignment.pdb
