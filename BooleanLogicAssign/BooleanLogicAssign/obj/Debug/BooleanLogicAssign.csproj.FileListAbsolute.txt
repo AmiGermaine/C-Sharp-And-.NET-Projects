@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BooleanLogicAssign\BooleanLogicAssign\bin\Debug\BooleanLogicAssign.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BooleanLogicAssign\BooleanLogicAssign\bin\Debug\BooleanLogicAssign.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BooleanLogicAssign\BooleanLogicAssign\bin\Debug\BooleanLogicAssign.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BooleanLogicAssign\BooleanLogicAssign\obj\Debug\BooleanLogicAssign.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BooleanLogicAssign\BooleanLogicAssign\obj\Debug\BooleanLogicAssign.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BooleanLogicAssign\BooleanLogicAssign\obj\Debug\BooleanLogicAssign.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BooleanLogicAssign\BooleanLogicAssign\obj\Debug\BooleanLogicAssign.pdb
