@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
