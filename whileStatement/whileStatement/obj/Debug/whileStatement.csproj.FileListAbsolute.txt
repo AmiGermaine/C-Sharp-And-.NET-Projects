@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\whileStatement\whileStatement\bin\Debug\whileStatement.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\whileStatement\whileStatement\bin\Debug\whileStatement.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\whileStatement\whileStatement\bin\Debug\whileStatement.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\whileStatement\whileStatement\obj\Debug\whileStatement.pdb
