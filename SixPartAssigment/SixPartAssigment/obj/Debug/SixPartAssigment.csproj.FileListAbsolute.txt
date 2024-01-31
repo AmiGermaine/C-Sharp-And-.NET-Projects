@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\SixPartAssigment\SixPartAssigment\bin\Debug\SixPartAssigment.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\SixPartAssigment\SixPartAssigment\bin\Debug\SixPartAssigment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\SixPartAssigment\SixPartAssigment\bin\Debug\SixPartAssigment.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\SixPartAssigment\SixPartAssigment\obj\Debug\SixPartAssigment.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\SixPartAssigment\SixPartAssigment\obj\Debug\SixPartAssigment.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\SixPartAssigment\SixPartAssigment\obj\Debug\SixPartAssigment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\SixPartAssigment\SixPartAssigment\obj\Debug\SixPartAssigment.pdb
