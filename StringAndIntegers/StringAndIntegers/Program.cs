@@ -10,14 +10,16 @@ namespace StringAndIntegers
     {
         static void Main(string[] args)
         {
+            
             try //try/catch expection to catch errors that'll occur during execution 
             {
+                List<int> numbers = new List<int>() { 2, 4, 6, 8, 10 };
                 Console.WriteLine("Enter a number:");
                 int numOne = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Enter a second number.");
-                int numTwo = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Dividing the two...");
-                int numThree = numOne / numTwo;
+                //Console.WriteLine("Enter a second number.");
+                //int numTwo = Convert.ToInt32(Console.ReadLine());
+                //Console.WriteLine("Dividing the two...");
+                //int numThree = numbers / numOne;
                 Console.WriteLine("result is: " + numThree );
                 
             }
