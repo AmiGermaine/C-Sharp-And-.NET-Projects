@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\StringAndIntegers.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\StringAndIntegers.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\StringAndIntegers\StringAndIntegers\bin\Debug\StringAndIntegers.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\StringAndIntegers\StringAndIntegers\obj\Debug\StringAndIntegers.pdb
