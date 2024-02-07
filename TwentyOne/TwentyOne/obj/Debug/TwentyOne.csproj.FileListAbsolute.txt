@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
