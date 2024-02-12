@@ -12,8 +12,8 @@ namespace MethodClass
         {
             // Calling function
             Operator1 op1 = new Operator1();  //Instantiate
-            op1.sum(50, 20); //math operation
-            op1.sum1(numberTwo:10);
+            op1.sum(50, 30); //math operation
+            op1.sum(numberTwo:20, numberOne:10); // specifying parameters by name
 
             Console.ReadLine();
         }

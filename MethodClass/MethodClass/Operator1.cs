@@ -10,11 +10,13 @@ namespace MethodClass
     {
         public void sum(int numberOne, int numberTwo) // creating a void method that takes two integers as parameters.
         {
-            Console.WriteLine("sub = " + (numberOne - numberTwo));
+            int result = numberOne - numberTwo; //do math on the first integer
+
+            Console.WriteLine(numberTwo); //display the second integer to the screen 
         }
-        public void sum1(int numberTwo)
-        {
-            Console.WriteLine(numberTwo);
-        }
+        //public void sum(int numberTwo)
+        //{
+        //    Console.WriteLine(numberTwo);
+        //}
     }
 }
