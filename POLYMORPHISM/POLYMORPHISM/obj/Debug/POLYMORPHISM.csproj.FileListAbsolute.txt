@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\POLYMORPHISM\POLYMORPHISM\bin\Debug\POLYMORPHISM.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\POLYMORPHISM\POLYMORPHISM\bin\Debug\POLYMORPHISM.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\POLYMORPHISM\POLYMORPHISM\bin\Debug\POLYMORPHISM.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.pdb
