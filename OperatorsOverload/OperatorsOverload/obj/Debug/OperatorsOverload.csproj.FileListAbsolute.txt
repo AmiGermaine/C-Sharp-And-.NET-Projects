@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\OperatorsOverload\OperatorsOverload\bin\Debug\OperatorsOverload.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\OperatorsOverload\OperatorsOverload\bin\Debug\OperatorsOverload.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\OperatorsOverload\OperatorsOverload\bin\Debug\OperatorsOverload.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\OperatorsOverload\OperatorsOverload\obj\Debug\OperatorsOverload.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\OperatorsOverload\OperatorsOverload\obj\Debug\OperatorsOverload.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\OperatorsOverload\OperatorsOverload\obj\Debug\OperatorsOverload.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\OperatorsOverload\OperatorsOverload\obj\Debug\OperatorsOverload.pdb
