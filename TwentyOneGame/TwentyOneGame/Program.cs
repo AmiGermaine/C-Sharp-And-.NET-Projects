@@ -12,12 +12,6 @@ namespace TwentyOneGame
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGames();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Ami";
-            game += player;
-            game -= player;
 
             Deck deck = new Deck();
             deck.shuffle(3);
