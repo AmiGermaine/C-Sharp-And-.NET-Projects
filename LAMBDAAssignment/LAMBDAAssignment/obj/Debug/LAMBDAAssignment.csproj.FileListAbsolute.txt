@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\LAMBDAAssignment.exe.config
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\LAMBDAAssignment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\LAMBDAAssignment\LAMBDAAssignment\bin\Debug\LAMBDAAssignment.pdb
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\LAMBDAAssignment.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\LAMBDAAssignment.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\LAMBDAAssignment.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\LAMBDAAssignment\LAMBDAAssignment\obj\Debug\LAMBDAAssignment.pdb
