@@ -25,7 +25,7 @@ namespace TwentyOneGame
         }
         public List<Card> Cards { get; set; }
 
-        public void shuffle(int times = 1)
+        public void Shuffle(int times = 1)
         {
             for (int i = 0; i < times; i++)
             {
