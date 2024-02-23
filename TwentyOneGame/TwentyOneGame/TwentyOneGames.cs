@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Casino.TwentyOne
 {
     public class TwentyOneGames : Game, IWalkAway
     {
@@ -25,7 +25,18 @@ namespace TwentyOneGame
 
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("And how much money did you bring today?");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException("Security! Kick this person out.");
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {

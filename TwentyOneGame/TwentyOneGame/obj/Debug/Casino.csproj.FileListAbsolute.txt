@@ -1,0 +1,4 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\TwentyOneGame\TwentyOneGame\obj\Debug\TwentyOneGame.pdb

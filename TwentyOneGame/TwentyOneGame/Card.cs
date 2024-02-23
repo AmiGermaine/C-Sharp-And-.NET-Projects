@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Casino
 {
-    public class Card
+    public struct Card
     {
+        public static int Count { get; internal set; }
         public Suit Suit { get; set; }
         public Face Face { get; set; }
 

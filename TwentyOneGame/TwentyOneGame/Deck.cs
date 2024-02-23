@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Casino
 {
     public class Deck
     {
+        public List<Card> Cards { get; set; }
         public Deck()
         {
             Cards = new List<Card>();
@@ -22,9 +23,7 @@ namespace TwentyOneGame
                     Cards.Add(card);
                 }
             }
-        }
-        public List<Card> Cards { get; set; }
-
+        }       
         public void Shuffle(int times = 1)
         {
             for (int i = 0; i < times; i++)
