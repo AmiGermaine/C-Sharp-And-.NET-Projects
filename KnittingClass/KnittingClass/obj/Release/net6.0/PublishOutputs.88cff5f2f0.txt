@@ -1,0 +1,7 @@
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\KnittingClass\KnittingClass\obj\Release\net6.0\PubTmp\Out\KnittingClass.exe
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\KnittingClass\KnittingClass\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\KnittingClass\KnittingClass\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\KnittingClass\KnittingClass\obj\Release\net6.0\PubTmp\Out\KnittingClass.dll
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\KnittingClass\KnittingClass\obj\Release\net6.0\PubTmp\Out\KnittingClass.deps.json
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\KnittingClass\KnittingClass\obj\Release\net6.0\PubTmp\Out\KnittingClass.runtimeconfig.json
+C:\Users\amida\Documents\GitHub\C-Sharp-And-.NET-Projects\KnittingClass\KnittingClass\obj\Release\net6.0\PubTmp\Out\KnittingClass.pdb

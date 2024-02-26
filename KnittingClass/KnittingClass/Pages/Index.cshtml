@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Knitting class</h1>
+    <p>Learn how to knit <a href="https://docs.microsoft.com/aspnet/core">with ASP.NET Core Web App</a>.</p>
+</div>
+
+<html>
+    <body>
+    @{
+        var greeting = "Hello, Welcome to the beginner Knitting project! \n";
+        var weekDay = DateTime.Now;
+        var greetingMessage = greeting + "Here in Portland, OR it is: " + weekDay;
+    }
+    <p>@greetingMessage</p>
+
+    </body>
+</html>
