@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\finalchallenge\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|c:\\users\\amida\\documents\\github\\c-sharp-and-.net-projects\\finalchallenge\\finalchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|c:\\users\\amida\\documents\\github\\c-sharp-and-.net-projects\\finalchallenge\\finalchallenge\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\finalchallenge\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\finalchallenge\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|c:\\users\\amida\\documents\\github\\c-sharp-and-.net-projects\\finalchallenge\\finalchallenge\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\finalchallenge\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|c:\\users\\amida\\documents\\github\\c-sharp-and-.net-projects\\finalchallenge\\finalchallenge\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|c:\\users\\amida\\documents\\github\\c-sharp-and-.net-projects\\finalchallenge\\finalchallenge\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B83902E3-FA7A-4B0C-86BA-DDEE8B364D22}|FinalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\App.config",
               "RelativeDocumentMoniker": "FinalChallenge\\App.config",
               "ToolTip": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\App.config",
               "RelativeToolTip": "FinalChallenge\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-02-26T12:24:58.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentContext.cs",
               "DocumentMoniker": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\StudentContext.cs",
               "RelativeDocumentMoniker": "FinalChallenge\\StudentContext.cs",
               "ToolTip": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\StudentContext.cs",
               "RelativeToolTip": "FinalChallenge\\StudentContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T12:15:30.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\Student.cs",
               "RelativeDocumentMoniker": "FinalChallenge\\Student.cs",
               "ToolTip": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\Student.cs",
               "RelativeToolTip": "FinalChallenge\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T11:46:00.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\Grade.cs",
               "RelativeDocumentMoniker": "FinalChallenge\\Grade.cs",
               "ToolTip": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\Grade.cs",
               "RelativeToolTip": "FinalChallenge\\Grade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T11:37:35.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\Program.cs",
               "RelativeDocumentMoniker": "FinalChallenge\\Program.cs",
               "ToolTip": "C:\\Users\\amida\\Documents\\GitHub\\C-Sharp-And-.NET-Projects\\FinalChallenge\\FinalChallenge\\Program.cs",
               "RelativeToolTip": "FinalChallenge\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T11:36:14.851Z",
               "EditorCaption": ""

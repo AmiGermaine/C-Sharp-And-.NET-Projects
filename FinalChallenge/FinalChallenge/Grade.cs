@@ -8,9 +8,10 @@ namespace FinalChallenge
 {
     public class Grade
     {
-        public int GradeID;
-        public string GradeName;
+        public int GradeId { get; set; }
+        public string GradeName { get; set; }
+        public string Section { get; set; }
 
-        public ICollection<Student> Students;
+        public ICollection<Student> Students { get; set; }
     }
 }

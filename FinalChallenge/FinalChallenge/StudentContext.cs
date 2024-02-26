@@ -8,12 +8,11 @@ using System.Runtime.Remoting.Contexts;
 
 namespace FinalChallenge
 {
-    public class StudentContext : DbContext
+    public class SchoolContext : DbContext
     {
-        public StudentContext() 
-            : base("studbConn")
+        public SchoolContext() : base()
         {
-            Database.SetInitializer<StudentContext>(new CreateDatabaseIfNotExists<StudentContext>());
+            
         }
         public DbSet<Student> Students { get; set; }
         public DbSet<Grade> Grades { get; set; }
